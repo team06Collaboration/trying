@@ -9,5 +9,6 @@ public class Try {
     //bilge first
     //fatih first
     //yusuf third
-
+    //nazım second
+    //nazım third
 }
